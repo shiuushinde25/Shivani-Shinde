@@ -1,9 +1,7 @@
 # 🚀 Shivani Shinde  
 
-<!-- Stylish Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/3ZQ3YcG.png" alt="banner" width="100%" />
-</p>
+<!-- Banner -->
+<img src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" alt="banner" width="100%" height="250px"> 
 
 <!-- Typing Animation -->
 <p align="center">
