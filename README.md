@@ -2,7 +2,7 @@
 
 <!-- Stylish Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayushkumar-25/ayushkumar-25/main/assets/header.png" alt="banner" width="100%" />
+  <img src="https://i.imgur.com/3ZQ3YcG.png" alt="banner" width="100%" />
 </p>
 
 <!-- Typing Animation -->
@@ -38,7 +38,7 @@
 
 ## ⚒ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,terraform,linux,git,github,mysql,pandas,numpy,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,aws,terraform,linux,git,github,mysql,java,html,css" />
 </p>
 
 ---
